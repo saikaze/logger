@@ -2,7 +2,9 @@
     "name": "saikaze/logger",
     "description": "Logging Class",
     "require": {
-        "joshcam/mysqli-database-class": "^2.5"
+        "php": ">=5.3.0",
+        "joshcam/mysqli-database-class": "^2.5",
+        "phpmailer/phpmailer": "~5.2"
     },
     "license": "MIT",
     "authors": [
@@ -10,5 +12,7 @@
             "name": "Saikaze",
             "email": "saikaze@gmail.com"
         }
-    ]
+    ],
+    "minimum-stability" : "dev",
+    "prefer-stable" : true
 }
