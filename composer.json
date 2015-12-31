@@ -1,0 +1,14 @@
+{
+    "name": "saikaze/logger",
+    "description": "Logging Class",
+    "require": {
+        "joshcam/mysqli-database-class": "^2.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Saikaze",
+            "email": "saikaze@gmail.com"
+        }
+    ]
+}
